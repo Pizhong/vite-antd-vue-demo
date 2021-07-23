@@ -1,0 +1,22 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.2.2",
+    "less": "^4.1.1",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.10",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.4.2",
+    "vite-plugin-components": "^0.13.2",
+    "vite-plugin-style-import": "^1.0.1"
+  }
+}
